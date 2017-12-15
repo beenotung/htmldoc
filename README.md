@@ -45,6 +45,16 @@ The following HTMLDOC resources are available online:
     https://github.com/michaelrsweet/htmldoc/issues
 
 
+# Installation
+
+```
+git clone https://github.com/michaelrsweet/htmldoc
+cd htmldoc
+# git checkout v1.9.1 #optional
+sudo make install
+```
+
+
 # Using HTMLDOC
 
 Note: Complete documentation for HTMLDOC is available in the "doc" subdirectory.
